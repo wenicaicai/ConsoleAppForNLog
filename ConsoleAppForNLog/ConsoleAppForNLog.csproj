@@ -50,6 +50,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Fibonacci\Fibonacci.cs" />
     <Compile Include="LambdaModel\Standard.cs" />
     <Compile Include="LambdaModel\Student.cs" />
     <Compile Include="Lambda\UseLambda.cs" />
